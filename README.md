@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Leap0p0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning the C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the C language.
 
 <!---
 Leap0p0/Leap0p0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
