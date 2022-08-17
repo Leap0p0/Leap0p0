@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leap0p0" alt="leap0p0" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@l4p0p0" target="blank"><img src="https://img.shields.io/twitter/follow/@l4p0p0?logo=twitter&style=for-the-badge" alt="@l4p0p0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@l4p0p0" target="blank"><img src="https://img.shields.io/twitter/follow/L4P0p0?logo=twitter&style=for-the-badge" alt="@l4p0p0" /></a> </p>
 
 - 🔭 I’m currently working on **fivem server**
 
