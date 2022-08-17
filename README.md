@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.io/u/p0p0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="p0p0" height="30" width="40" /></a>
+<a href="https://dev.to/p0p0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="p0p0" height="30" width="40" /></a>
 <a href="https://twitter.com/L4P0p0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@l4p0p0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/léa-pollet-0b32581a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léa pollet" height="30" width="40" /></a>
-<a href="https://codesandbox.com/p0p0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="p0p0" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/p0p0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="p0p0" height="30" width="40" /></a>
 <a href="https://discord.gg/p0p0_l4_t4nch3#1847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p0p0_l4_t4nch3#1847" height="30" width="40" /></a>
 </p>
 
