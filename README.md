@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@l4p0p0" target="blank"><img src="https://img.shields.io/twitter/follow/L4P0p0?logo=twitter&style=for-the-badge" alt="@l4p0p0" /></a> </p>
 
-- 🔭 I’m currently working on **fivem server**
+- 🔭 I’m currently working on **FiveM server**
 
 - 🌱 I’m currently learning **Lua (Fivem), qbcore, Tailwinds, Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Leap0p0](https://github.com/Leap0p0)
 
-- 💬 Ask me about **c, Lua**
+- 💬 Ask me about **C, Lua**
 
-- 📫 How to reach me **lea.pollet@epitech.eu**
+- 📫 How to reach me **popodevfivem@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
